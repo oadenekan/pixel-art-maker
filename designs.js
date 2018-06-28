@@ -13,7 +13,6 @@ $('#sizePicker').submit(function(evt){
 })
 
 function makeGrid(heightValue, width) {
-	//while
 	$('#pixelCanvas tr').remove();
 
 	// Your code goes here!
